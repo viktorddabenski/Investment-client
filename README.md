@@ -1,2 +1,2 @@
 # Investment-client
-Diplomna
+Desktop client for investment broker
